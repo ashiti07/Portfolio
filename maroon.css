@@ -1,0 +1,12 @@
+:root {
+  --maincolor: rgb(232, 211, 238);
+  --secondarycolor: rgba(255, 249, 249, 0.582);
+
+  --bordercolor: rgb(240, 243, 239);
+
+  --mainText: rgb(0, 0, 0);
+  --secondaryText: rgb(44, 44, 44);
+  --privewBg: rgb(255, 255, 255);
+  --shawdoBg: #a1a1a1;
+  --skillFont: black;
+}
